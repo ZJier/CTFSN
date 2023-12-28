@@ -1,5 +1,5 @@
 ## Convolution Transformer Fusion Splicing Network for Hyperspectral Image Classification (CTFSN)
-The paper titled "**Convolution Transformer Fusion Splicing Network for Hyperspectral Image Classification**" has been accepted by GRSL in Sep 2022, which is an official implementation for **CTFSN**.
+The paper titled "**Convolution Transformer Fusion Splicing Network for Hyperspectral Image Classification**" has been accepted by GRSL in January 2022, which is an official implementation for **CTFSN**.
 
 ## citation
 
@@ -20,6 +20,8 @@ or
 ## Other
 
 As a co-author, I encourage researchers to cite our latest work. 
+
+**If you need this code, you can contact Shijie Li (lishijie@stu.xupt.edu.cn)**.
 
 We encourage researchers to achieve different comparative experiments (papers) within a code framework, to achieve a fair comparison.
 
