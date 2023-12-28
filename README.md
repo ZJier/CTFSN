@@ -7,14 +7,14 @@ Zhao F., Li S., **Zhang J.**, et al. Convolution Transformer Fusion Splicing Net
 
 or
 
-@article{zhao2023convolution,
-  title={Convolution Transformer Fusion Splicing Network for Hyperspectral Image Classification},
-  author={Zhao, Feng and Li, Shijie and Zhang, Junjie and Liu, Hanqiang},
-  journal={IEEE Geoscience and Remote Sensing Letters},
-  volume={20},
-  pages={1--5},
-  year={2023},
-  publisher={IEEE}
+@article{zhao2023convolution,\\
+  title={Convolution Transformer Fusion Splicing Network for Hyperspectral Image Classification},\\
+  author={Zhao, Feng and Li, Shijie and Zhang, Junjie and Liu, Hanqiang},\\
+  journal={IEEE Geoscience and Remote Sensing Letters},\\
+  volume={20},\\
+  pages={1--5},\\
+  year={2023},\\
+  publisher={IEEE}\\
 }
 
 ## Other
